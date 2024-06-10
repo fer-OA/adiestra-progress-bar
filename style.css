@@ -32,12 +32,13 @@ body {
     	font-weight: normal;
     	font-style: normal;
     	}
+
 		
 		h1 {
 		text-transform: uppercase;
-		color: #77dff1;
+		color: #5e2e91;
 		font-family: LeagueGothicRegular;
-		font-size: 80px;
+		font-size: 70px;
 		font-weight: lighter;
 		text-shadow: 0px 2px 0px #000;
 		margin: 30px 0 0 0;
