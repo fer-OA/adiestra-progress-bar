@@ -10,15 +10,17 @@ body {
     	display: block;  
 		} 
 		.wrapper {
-		width: 100;
-		min-height: 100vh;
-		margin: 0 auto;
-		text-align: center;
-		background: url(images/bg-light.png) no-repeat center center;
-			background-size: cover;
-		padding-top: 20px;
-		}
-		.wrapper {
+    width: 100%; /* Ensures the wrapper takes the full width of its container */
+    min-height: 100vh; /* Ensures the wrapper takes the full height of the viewport */
+    margin: 0 auto; /* Centers the wrapper horizontally */
+    text-align: center; /* Centers text inside the wrapper */
+    background: url('images/bg-light.png') no-repeat center center; /* Centers the background image */
+    background-size: cover; /* Ensures the image covers the entire area of the wrapper while maintaining its aspect ratio */
+    padding-top: 20px; /* Adds padding at the top of the wrapper */
+    box-sizing: border-box; /* Ensures padding is included in the width and height */
+    overflow-x: hidden; /* Prevents horizontal scrolling */
+}
+
 
 		
 		
