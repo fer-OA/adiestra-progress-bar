@@ -41,8 +41,8 @@ a{ color: #77dff1; text-decoration: none;}
     	font-style: normal;
     	}
 @font-face {
-    	font-family: 'Nunito';
-   		src: url('fonts/Nunito-VariableFont_wght.ttf'); format('truetype');
+    	font-family: 'BodoAmat';
+   		src: url('fonts/Bodo Amat.ttf'); format('truetype');
     	font-weight: bold;
     	font-style: normal;
     	}
@@ -50,7 +50,7 @@ a{ color: #77dff1; text-decoration: none;}
 		h1 {
 		text-transform: uppercase;
 		color: #ffffff;
-		font-family: Nunito;
+		font-family: BodoAmat;
 		font-size: 70px;
 		font-weight: lighter;
 		text-shadow: 0px 2px 0px #000;
