@@ -10,7 +10,7 @@ body {
     	display: block;  
 		} 
 		.wrapper {
-    width: 90%; /* Ensures the wrapper takes the full width of its container */
+    width: 100%; /* Ensures the wrapper takes the full width of its container */
     min-height: 100vh; /* Ensures the wrapper takes the full height of the viewport */
     margin: 0 auto; /* Centers the wrapper horizontally */
     text-align: center; /* Centers text inside the wrapper */
@@ -89,6 +89,7 @@ a{ color: #77dff1; text-decoration: none;}
 		margin: 80px 0;
 		background: url(images/progress-container.png) no-repeat;
 		position: relative;
+		right: -45px;	
 		}
 		
 		.txt-launch-day-hat {
