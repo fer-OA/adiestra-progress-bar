@@ -10,14 +10,17 @@ body {
     	display: block;  
 		} 
 		.wrapper {
-		width: 960px;
-		min-height: 720px;
+		width: 100;
+		min-height: 100vh;
 		margin: 0 auto;
 		text-align: center;
-		background: url(images/bg-light.png) no-repeat;
+		background: url(images/bg-light.png) no-repeat center center;
+			background-size: cover;
 		padding-top: 20px;
+		box-sizing: border-box; 
 		}
-		
+		.wrapper {
+
 		
 		
 		a{ color: #77dff1; text-decoration: none;}
