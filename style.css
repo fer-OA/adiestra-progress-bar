@@ -86,7 +86,7 @@ a{ color: #77dff1; text-decoration: none;}
 		
 		.progress {
 		height: 110px;
-		margin: 80px 0;
+		margin: -80px 0;
 		background: url(images/progress-container.png) no-repeat;
 		position: relative;
 		}
