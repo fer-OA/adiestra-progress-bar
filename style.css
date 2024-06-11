@@ -51,7 +51,7 @@ body {
 		font-family: LeagueGothicRegular;
 		font-size: 24px;
 		font-weight: lighter;
-		text-shadow: 0px 2px 0px #000;
+		text-shadow: 0px 0px 0px #000;
 		margin: 15px 0 15px 20px;
 		text-align: left;
 		}
@@ -60,7 +60,7 @@ body {
 		color: #fff;
 		margin: 0;
 		font-size: 16px;
-		text-shadow: 0 -2px 0 #000;
+		text-shadow: 0 0px 0 #000;
 		}
 		
 		p.credit {font-size: 12px; margin-top: 40px; color: #ccc;}
