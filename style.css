@@ -15,6 +15,7 @@ body {
 		margin: 0 auto;
 		text-align: center;
 		background: url(images/bg-light.png) no-repeat;
+		background-size: cover;
 		padding-top: 20px;
 		}
 
