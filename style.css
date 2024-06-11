@@ -90,7 +90,6 @@ a{ color: #77dff1; text-decoration: none;}
 		background: url(images/progress-container.png) no-repeat;
 		position: relative;
 		right: -200px;	
-		left: -200px;
 		}
 		
 		.txt-launch-day-hat {
@@ -99,7 +98,6 @@ a{ color: #77dff1; text-decoration: none;}
 		height: 159px;
 		position: absolute;
 		top: -120px;
-		right: -80px;
 		}
 		
 		.txt-launch-day {
