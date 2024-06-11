@@ -80,7 +80,7 @@ body {
 		
 		.progress {
 		height: 110px;
-		margin: 80px 0;
+		margin: 80px auto;
 		background: url(images/progress-container.png) no-repeat;
 		position: relative;
 		}
